@@ -1,0 +1,63 @@
+[14:34:11] [Server thread/INFO]: Starting minecraft server version 1.8.3
+[14:34:11] [Server thread/INFO]: Loading properties
+[14:34:11] [Server thread/INFO]: Default game type: ADVENTURE
+[14:34:11] [Server thread/INFO]: Generating keypair
+[14:34:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:34:11] [Server thread/INFO]: Using default channel type
+[14:34:11] [Server thread/INFO]: Preparing level "world"
+[14:34:11] [Server thread/INFO]: Preparing start region for level 0
+[14:34:12] [Server thread/INFO]: Done (0.593s)! For help, type "help" or "?"
+[14:35:24] [User Authenticator #1/INFO]: UUID of player Genene is 425e937a-bab8-403f-ba3e-593c068e7ba3
+[14:35:24] [Server thread/INFO]: Genene[/127.0.0.1:21748] logged in with entity id 2 at (202.46863308801224, 54.0, -1784.5500654848008)
+[14:35:24] [Server thread/INFO]: §eGenene§r joined the game
+[14:35:32] [User Authenticator #2/INFO]: UUID of player Yunitrish0419 is 448bd0fd-4593-4343-9eb2-1326530c4bd3
+[14:35:32] [Server thread/INFO]: Yunitrish0419[/127.0.0.1:21761] logged in with entity id 5 at (258.827243092797, 48.0, 40.21103284265718)
+[14:35:32] [Server thread/INFO]: §eYunitrish0419§r joined the game
+[14:36:01] [Server thread/INFO]: Genene lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:36:01] [Server thread/INFO]: §eGenene§r left the game
+[14:41:47] [Server thread/WARN]: Yunitrish0419 moved wrongly!
+[14:42:31] [Server thread/INFO]: Yunitrish0419 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:42:31] [Server thread/INFO]: §eYunitrish0419§r left the game
+[15:01:56] [Server thread/INFO]: Starting minecraft server version 1.8.3
+[15:01:56] [Server thread/INFO]: Loading properties
+[15:01:56] [Server thread/INFO]: Default game type: ADVENTURE
+[15:01:56] [Server thread/INFO]: Generating keypair
+[15:01:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:01:56] [Server thread/INFO]: Using default channel type
+[15:01:56] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[15:01:56] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use: bind
+[15:01:56] [Server thread/WARN]: Perhaps a server is already running on that port?
+[15:01:56] [Server thread/INFO]: Stopping server
+[15:02:03] [Server thread/INFO]: Starting minecraft server version 1.8.3
+[15:02:03] [Server thread/INFO]: Loading properties
+[15:02:03] [Server thread/INFO]: Default game type: ADVENTURE
+[15:02:03] [Server thread/INFO]: Generating keypair
+[15:02:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:02:03] [Server thread/INFO]: Using default channel type
+[15:02:03] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[15:02:03] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use: bind
+[15:02:03] [Server thread/WARN]: Perhaps a server is already running on that port?
+[15:02:03] [Server thread/INFO]: Stopping server
+[15:02:03] [Server Shutdown Thread/INFO]: Stopping server
+[15:02:21] [Server thread/INFO]: Starting minecraft server version 1.8.3
+[15:02:21] [Server thread/INFO]: Loading properties
+[15:02:21] [Server thread/INFO]: Default game type: ADVENTURE
+[15:02:21] [Server thread/INFO]: Generating keypair
+[15:02:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:02:21] [Server thread/INFO]: Using default channel type
+[15:02:21] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[15:02:21] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use: bind
+[15:02:21] [Server thread/WARN]: Perhaps a server is already running on that port?
+[15:02:21] [Server thread/INFO]: Stopping server
+[15:02:21] [Server Shutdown Thread/INFO]: Stopping server
+[15:02:38] [Server thread/INFO]: Starting minecraft server version 1.8.3
+[15:02:38] [Server thread/INFO]: Loading properties
+[15:02:38] [Server thread/INFO]: Default game type: ADVENTURE
+[15:02:38] [Server thread/INFO]: Generating keypair
+[15:02:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:02:38] [Server thread/INFO]: Using default channel type
+[15:02:38] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[15:02:38] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use: bind
+[15:02:38] [Server thread/WARN]: Perhaps a server is already running on that port?
+[15:02:38] [Server thread/INFO]: Stopping server
+[15:02:38] [Server Shutdown Thread/INFO]: Stopping server
